@@ -4,7 +4,7 @@
 ---
 ![image](https://user-images.githubusercontent.com/72645298/234754559-16e1872c-6e7b-4c30-8e31-c2acf1dd5d4d.png)
 ---
-If you dont create your own pattern scan function you can just update the offsets to the latest offsets in the `Core.cpp` file. You can get the latest offsets from https://github.com/imattas/rocket-league-offset-dumper
+If you dont create your own pattern scan function you can just update the offsets to the latest offsets in the `Offsets.cpp` file. You can get the latest offsets from https://github.com/imattas/rocket-league-offset-dumper
 
 The filters(folders) in your solution explorer may not be correct / you may have to check your additional includes in the project settings 
 
